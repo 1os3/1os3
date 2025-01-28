@@ -1,4 +1,4 @@
-#Chinese
+##Chinese
 
 Hi，我是1os3，真名嘛就不便于透露了。
 
@@ -8,7 +8,7 @@ Hi，我是1os3，真名嘛就不便于透露了。
 
 想要联系我的可以加我的微信：Teresa_5CUBE。
 
-#English
+##English
 
 Hi, I'm 1os3, so it's hard to reveal my real name.
 
